@@ -1,5 +1,5 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
-
+# Control Design TecNM
 # Tiny Tapeout Chisel Project Template
 
 This template is intended for projects written in the Chisel hardware construction language.
